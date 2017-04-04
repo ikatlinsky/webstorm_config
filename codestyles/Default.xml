@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+  </TypeScriptCodeStyleSettings>
+</code_scheme>
