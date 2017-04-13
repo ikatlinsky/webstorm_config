@@ -22,11 +22,11 @@
       <mask>*.р</mask>
       <mask>*.</mask>
       <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.t</mask>
+      <mask>*.html</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
