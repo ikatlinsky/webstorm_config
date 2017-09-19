@@ -5,6 +5,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="nginx_config" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
