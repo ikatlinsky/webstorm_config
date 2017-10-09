@@ -7,6 +7,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="qa" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
