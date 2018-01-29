@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.htl</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.еы</mask>
-      <mask>*.е</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.реьд</mask>
-      <mask>*.реь</mask>
-      <mask>*.ре</mask>
-      <mask>*.р</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-    </recentFileMasks>
   </component>
 </application>
