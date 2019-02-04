@@ -5,6 +5,8 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="nginx_config" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="staging" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="qa" type="PLAIN_TEXT" />
