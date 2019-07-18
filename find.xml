@@ -12,9 +12,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
-    <mask>*.sh</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.sh</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
