@@ -5,6 +5,7 @@
       <mapping pattern="nginx_config" type="PLAIN_TEXT" />
       <mapping ext="rnd" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="uat" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
