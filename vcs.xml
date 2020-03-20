@@ -46,9 +46,13 @@
           <option name="url" value="git@bitbucket.org:iotaTechLtd/sp-prod-config-properties.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:iotaTechLtd/clm-policy-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/work/projects/SP" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/work/projects/ITC" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
